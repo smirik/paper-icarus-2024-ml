@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 output
-*.csv
 **.DS_Store
 
 # C extensions
